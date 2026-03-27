@@ -48,17 +48,10 @@ Durante o desenvolvimento, foram reforçados conceitos como:
 
 ## 📷 Preview
 
-<p align="center"> <img src="https://github.com/seu-usuario/seu-repositorio/assets/SEU_ID/calculadora_imagem" alt="Preview da calculadora" width="300"/> </p>
+<p align="center">
+  <img src="./calculadora_img.png" alt="Preview da calculadora" width="300"/>
+</p>
 
-## 🔗 Como usar
-
-1. Clone o repositório:
-
-```
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
-
-2. Abra o arquivo `index.html` no navegador
 
 ## 📌 Status
 

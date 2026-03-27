@@ -49,7 +49,7 @@ Durante o desenvolvimento, foram reforçados conceitos como:
 ## 📷 Preview
 
 <p align="center">
-  <img src="./calculadora_img.png" alt="Preview da calculadora" width="300"/>
+  <img src="./calculadora_imagem.jpg" alt="Preview da calculadora" width="300"/>
 </p>
 
 
